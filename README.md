@@ -1,4 +1,4 @@
-# Chimera Dynamics
+# MNX Studio
 
 ## Screenshots
 <p align="center">
